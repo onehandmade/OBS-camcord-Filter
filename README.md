@@ -1,5 +1,8 @@
 # Camcorder for OBS
 
+> [!WARNING]
+> This project was developed with AI-assisted tooling. Please validate the shader and browser overlay in OBS before relying on them in live production, and be aware that this effect is intentionally stylized and may look different depending on your source, hardware, and scene settings.
+
 Give your webcam or handcam footage the worn, nostalgic look of a 2005 consumer camcorder: soft detail, warm color, tape noise, visible scanlines, digital tracking glitches, and a blinking REC indicator.
 
 This project includes both:
@@ -96,4 +99,3 @@ This effect is intentionally stylized. It is not meant to be a realistic restora
 ## Credits
 
 Created by Dani.
-
